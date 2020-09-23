@@ -1,7 +1,7 @@
 import React from "react";
 
 // Material UI
-import { Typography, Button } from "@material-ui/core";
+import { Typography } from "@material-ui/core";
 
 // Icons
 import { IoIosArrowDown } from "react-icons/io";
